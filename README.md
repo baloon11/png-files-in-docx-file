@@ -10,8 +10,11 @@ Usage
 ------
 Put the script in folder containing .png files.
 
+Then
 	python Merger.py test.docx 
+
 Where: 
+
 	test.docx -- it is name of  the new .docx file.
  
 	You can specify any name of file
