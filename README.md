@@ -11,6 +11,7 @@ Usage
 Put the script in folder containing .png files.
 
 Then
+
 	python Merger.py test.docx 
 
 Where: 
@@ -29,10 +30,11 @@ to make it look nice and compact.
 Requirements
 ------------
 
-python 2.7
+	python 2.7
 
 This script uses an additional  python-docx
 install:
+
 	pip install python-docx
 
 
